@@ -1,1 +1,2 @@
-# RARE
+# Retain and Recover: Delving into Information Loss for Few-Shot Segmentation
+Our paper is under review...
